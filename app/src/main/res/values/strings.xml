@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group2IntentSlideAnimation</string>
+    <string name="ito_ang_activity_one">Ito ang Activity One</string>
+    <string name="go_to_activity_2">Go to activity 2</string>
+    <string name="ito_ang_activity_two">Ito ang Activity Two</string>
+    <string name="go_to_activity_3">Go to activity 3</string>
+    <string name="ito_ang_activity_three">Ito ang Activity Three</string>
+</resources>
